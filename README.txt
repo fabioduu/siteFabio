@@ -60,5 +60,6 @@ Credits:
 	Icons:
 		Font Awesome (fontawesome.io)
 https://healthierbloom.com/
+https://glucotonics.shop/
 	Other:
 		Responsive Tools (github.com/ajlkn/responsive-tools)
