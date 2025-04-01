@@ -60,5 +60,6 @@ Credits:
 	Icons:
 		Font Awesome (fontawesome.io)
 https://offlcial-aquasculpt.com
+https://offlcial-primebiome.com
 	Other:
 		Responsive Tools (github.com/ajlkn/responsive-tools)
